@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "252528209968",
+    "project_id": "powerguard-3409c",
+    "storage_bucket": "powerguard-3409c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252528209968:android:8a6c1d6cdc84591a633df5",
+        "android_client_info": {
+          "package_name": "com.example.power_load_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252528209968-9vb660meko018sd36hsuhqut5f9oqfcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.power_load_app",
+            "certificate_hash": "cb4ef36f3707b4e2549779ac3f16ceb2647195e5"
+          }
+        },
+        {
+          "client_id": "252528209968-0hbabdrudin4o5r2rr6djsmath20hu5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZe3Pu-fbBDHHfsm7o7emvxOlYsdBYB7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252528209968-0hbabdrudin4o5r2rr6djsmath20hu5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
